@@ -33,6 +33,13 @@ A simple and user-friendly **Android mobile application** built using **Kotlin**
 
 > Add your app screenshots here
 
+### 🏠 Home Screen
+![Home Screen](SS1.jpg)
+![Home Screen](SS2.jpg)
+![Home Screen](SS3.jpg)
+![Home Screen](SS4.jpg)
+![Home Screen](SS5.jpg)
+
 ```bash
 📍 res/layout/activity_main.xml
 📍 src/main/java/com/example/unitconverter/MainActivity.kt
@@ -72,5 +79,8 @@ unit-converter/
 │
 ├── gradle/
 └── build.gradle
-
 ```
+
+## 🙋‍♂️ Author
+Kundan Kumar
+[LinkedIn](https://www.linkedin.com/in/kundan2026/)
